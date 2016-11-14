@@ -1,5 +1,6 @@
 [
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
         "source": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\anim-v21\\design_appbar_state_list_animator.xml"
     },
@@ -10,5 +11,17 @@
     {
         "merged": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
         "source": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+=======
+        "merged": "/Users/santiagoiraola/Desktop/FINAL_DIGITALHOUSE/lopflix/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/santiagoiraola/Desktop/FINAL_DIGITALHOUSE/lopflix/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/santiagoiraola/Desktop/FINAL_DIGITALHOUSE/lopflix/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/santiagoiraola/Desktop/FINAL_DIGITALHOUSE/lopflix/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/santiagoiraola/Desktop/FINAL_DIGITALHOUSE/lopflix/app/build/intermediates/res/merged/debug/anim-v21/design_appbar_state_list_animator.xml",
+        "source": "/Users/santiagoiraola/Desktop/FINAL_DIGITALHOUSE/lopflix/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/anim-v21/design_appbar_state_list_animator.xml"
+>>>>>>> master
     }
 ]

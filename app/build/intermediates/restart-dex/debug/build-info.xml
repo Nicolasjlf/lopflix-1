@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
 <instant-run
     abi="arm64-v8a,armeabi-v7a,armeabi"
     api-level="23"
@@ -35,3 +36,41 @@
     </build>
 
 </instant-run>
+=======
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxxhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="46060438948625"
+    token="6761336870061094555"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/Users/santiagoiraola/Desktop/FINAL_DIGITALHOUSE/lopflix/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="46060438948625"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/santiagoiraola/Desktop/FINAL_DIGITALHOUSE/lopflix/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
+>>>>>>> master

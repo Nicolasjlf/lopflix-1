@@ -1,5 +1,6 @@
 [
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_favorite.png",
         "source": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_favorite.png"
     },
@@ -10,5 +11,17 @@
     {
         "merged": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
         "source": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+=======
+        "merged": "/Users/santiagoiraola/Desktop/FINAL_DIGITALHOUSE/lopflix/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/santiagoiraola/Desktop/FINAL_DIGITALHOUSE/lopflix/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/santiagoiraola/Desktop/FINAL_DIGITALHOUSE/lopflix/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_favorite_full.png",
+        "source": "/Users/santiagoiraola/Desktop/FINAL_DIGITALHOUSE/lopflix/app/src/main/res/mipmap-xxxhdpi/ic_favorite_full.png"
+    },
+    {
+        "merged": "/Users/santiagoiraola/Desktop/FINAL_DIGITALHOUSE/lopflix/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_favorite.png",
+        "source": "/Users/santiagoiraola/Desktop/FINAL_DIGITALHOUSE/lopflix/app/src/main/res/mipmap-xxxhdpi/ic_favorite.png"
+>>>>>>> master
     }
 ]

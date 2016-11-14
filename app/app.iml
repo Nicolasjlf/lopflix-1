@@ -157,7 +157,10 @@
     <orderEntry type="library" exported="" name="tweet-ui-2.2.0" level="project" />
     <orderEntry type="library" exported="" name="recyclerview-v7-24.2.1" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="rules-0.5" level="project" />
+<<<<<<< HEAD
     <orderEntry type="library" exported="" name="retrofit-2.0.2" level="project" />
+=======
+>>>>>>> master
     <orderEntry type="library" exported="" name="YouTubeAndroidPlayerApi" level="project" />
     <orderEntry type="library" exported="" name="appcompat-v7-24.2.1" level="project" />
     <orderEntry type="library" exported="" name="support-vector-drawable-24.2.1" level="project" />

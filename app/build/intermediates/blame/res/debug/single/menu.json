@@ -1,6 +1,11 @@
 [
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\navigation_view_menu.xml",
         "source": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\src\\main\\res\\menu\\navigation_view_menu.xml"
+=======
+        "merged": "/Users/santiagoiraola/Desktop/FINAL_DIGITALHOUSE/lopflix/app/build/intermediates/res/merged/debug/menu/navigation_view_menu.xml",
+        "source": "/Users/santiagoiraola/Desktop/FINAL_DIGITALHOUSE/lopflix/app/src/main/res/menu/navigation_view_menu.xml"
+>>>>>>> master
     }
 ]
