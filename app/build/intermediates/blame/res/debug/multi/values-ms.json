@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ms\\values-ms.xml",
+        "outputFile": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ms\\values-ms.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 182
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-ms\\values-ms.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-ms\\values-ms.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -33,7 +33,7 @@
                     "endOffset": 313
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-ms\\values-ms.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-ms\\values-ms.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -54,7 +54,7 @@
                     "endOffset": 444
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-ms\\values-ms.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-ms\\values-ms.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -74,7 +74,7 @@
                     "endOffset": 499
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\2.2.0\\res\\values-ms\\values-ms.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\2.2.0\\res\\values-ms\\values-ms.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -93,7 +93,7 @@
                     "endOffset": 563
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\2.2.0\\res\\values-ms\\values-ms.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\2.2.0\\res\\values-ms\\values-ms.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -112,7 +112,7 @@
                     "endOffset": 620
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-ms\\values-ms.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-ms\\values-ms.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -131,7 +131,7 @@
                     "endOffset": 667
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\2.2.0\\res\\values-ms\\values-ms.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\2.2.0\\res\\values-ms\\values-ms.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -150,7 +150,7 @@
                     "endOffset": 721
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-ms\\values-ms.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-ms\\values-ms.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -169,7 +169,7 @@
                     "endOffset": 776
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-ms\\values-ms.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-ms\\values-ms.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -188,7 +188,7 @@
                     "endOffset": 838
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-ms\\values-ms.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-ms\\values-ms.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -207,7 +207,7 @@
                     "endOffset": 909
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\2.2.0\\res\\values-ms\\values-ms.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\2.2.0\\res\\values-ms\\values-ms.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -226,7 +226,7 @@
                     "endOffset": 961
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\2.2.0\\res\\values-ms\\values-ms.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\2.2.0\\res\\values-ms\\values-ms.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -245,7 +245,7 @@
                     "endOffset": 1024
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\2.2.0\\res\\values-ms\\values-ms.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\2.2.0\\res\\values-ms\\values-ms.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -264,7 +264,7 @@
                     "endOffset": 1067
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-ms\\values-ms.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-ms\\values-ms.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -283,7 +283,7 @@
                     "endOffset": 1109
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-ms\\values-ms.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-ms\\values-ms.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -302,7 +302,7 @@
                     "endOffset": 1158
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\2.2.0\\res\\values-ms\\values-ms.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\2.2.0\\res\\values-ms\\values-ms.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -321,7 +321,7 @@
                     "endOffset": 1222
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-ms\\values-ms.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-ms\\values-ms.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -340,7 +340,7 @@
                     "endOffset": 1287
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-ms\\values-ms.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-ms\\values-ms.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -359,7 +359,7 @@
                     "endOffset": 1337
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-ms\\values-ms.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-ms\\values-ms.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -378,7 +378,7 @@
                     "endOffset": 1414
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-ms\\values-ms.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-ms\\values-ms.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -397,7 +397,7 @@
                     "endOffset": 1526
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-ms\\values-ms.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-ms\\values-ms.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -416,7 +416,7 @@
                     "endOffset": 1816
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\2.2.0\\res\\values-ms\\values-ms.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\2.2.0\\res\\values-ms\\values-ms.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -435,7 +435,7 @@
                     "endOffset": 1891
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\2.2.0\\res\\values-ms\\values-ms.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\2.2.0\\res\\values-ms\\values-ms.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -454,7 +454,7 @@
                     "endOffset": 1973
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-ms\\values-ms.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-ms\\values-ms.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -473,7 +473,7 @@
                     "endOffset": 2030
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-ms\\values-ms.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-ms\\values-ms.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -492,7 +492,7 @@
                     "endOffset": 2106
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-ms\\values-ms.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-ms\\values-ms.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -511,7 +511,7 @@
                     "endOffset": 2162
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-ms\\values-ms.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-ms\\values-ms.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,

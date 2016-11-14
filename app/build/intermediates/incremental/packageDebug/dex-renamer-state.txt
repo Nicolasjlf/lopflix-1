@@ -1,7 +1,7 @@
-#Sun Nov 13 23:57:37 ART 2016
-base.0=C\:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_cb5611fd416a3d42b59e2d8d86c143ba5e0d115e
+#Mon Nov 14 16:57:25 ART 2016
+base.0=C\:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_eda172d357da3ceead2b5676e422cf4aea5ad79f
 renamed.1=classes.dex
 renamed.0=classes2.dex
-file.1=C\:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a52888da50d86e9ee323293de5592131c0df4ae5\\classes.dex
-base.1=C\:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a52888da50d86e9ee323293de5592131c0df4ae5
-file.0=C\:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_cb5611fd416a3d42b59e2d8d86c143ba5e0d115e\\classes.dex
+file.1=C\:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9fc09d105571395e6ff4e92cbe90a058682f8832\\classes.dex
+base.1=C\:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9fc09d105571395e6ff4e92cbe90a058682f8832
+file.0=C\:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_eda172d357da3ceead2b5676e422cf4aea5ad79f\\classes.dex

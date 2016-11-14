@@ -5,32 +5,32 @@
     density="xxxhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="463425312955135"
-    token="2313125589865235411"
+    timestamp="524858153778902"
+    token="-3637368099044024298"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="1644" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="3054" />
+        duration="0" />
     <task
         name="verifier"
-        duration="2761" />
+        duration="0" />
 
     <artifact
-        location="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\outputs\apk\app-debug.apk"
+        location="C:\Users\Nicolas Lopez F\lopflix-1\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="463425312955135"
+        timestamp="524858153778902"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\outputs\apk\app-debug.apk"
+            location="C:\Users\Nicolas Lopez F\lopflix-1\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
 

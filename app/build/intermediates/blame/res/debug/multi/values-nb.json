@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-nb\\values-nb.xml",
+        "outputFile": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-nb\\values-nb.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 184
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -33,7 +33,7 @@
                     "endOffset": 317
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -54,7 +54,7 @@
                     "endOffset": 450
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -74,7 +74,7 @@
                     "endOffset": 558
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -93,7 +93,7 @@
                     "endOffset": 667
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -112,7 +112,7 @@
                     "endOffset": 792
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -131,7 +131,7 @@
                     "endOffset": 887
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -150,7 +150,7 @@
                     "endOffset": 1001
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -169,7 +169,7 @@
                     "endOffset": 1087
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -188,7 +188,7 @@
                     "endOffset": 1187
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -207,7 +207,7 @@
                     "endOffset": 1300
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -226,7 +226,7 @@
                     "endOffset": 1376
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -245,7 +245,7 @@
                     "endOffset": 1452
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -264,7 +264,7 @@
                     "endOffset": 1532
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -283,7 +283,7 @@
                     "endOffset": 1635
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -302,7 +302,7 @@
                     "endOffset": 1734
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -321,7 +321,7 @@
                     "endOffset": 1830
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -340,7 +340,7 @@
                     "endOffset": 1934
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -359,7 +359,7 @@
                     "endOffset": 2032
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -378,7 +378,7 @@
                     "endOffset": 2133
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -397,7 +397,7 @@
                     "endOffset": 2249
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -416,7 +416,7 @@
                     "endOffset": 2346
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -435,7 +435,7 @@
                     "endOffset": 2425
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -454,7 +454,7 @@
                     "endOffset": 2526
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -473,7 +473,7 @@
                     "endOffset": 2579
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\2.2.0\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\2.2.0\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -492,7 +492,7 @@
                     "endOffset": 2636
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\2.2.0\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\2.2.0\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -511,7 +511,7 @@
                     "endOffset": 2689
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -530,7 +530,7 @@
                     "endOffset": 2739
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\2.2.0\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\2.2.0\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -549,7 +549,7 @@
                     "endOffset": 2792
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -568,7 +568,7 @@
                     "endOffset": 2848
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -587,7 +587,7 @@
                     "endOffset": 2913
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -606,7 +606,7 @@
                     "endOffset": 2980
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\2.2.0\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\2.2.0\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -625,7 +625,7 @@
                     "endOffset": 3032
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\2.2.0\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\2.2.0\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -644,7 +644,7 @@
                     "endOffset": 3088
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\2.2.0\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\2.2.0\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -663,7 +663,7 @@
                     "endOffset": 3132
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -682,7 +682,7 @@
                     "endOffset": 3175
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -701,7 +701,7 @@
                     "endOffset": 3224
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\2.2.0\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\2.2.0\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -720,7 +720,7 @@
                     "endOffset": 3288
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -739,7 +739,7 @@
                     "endOffset": 3354
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -758,7 +758,7 @@
                     "endOffset": 3407
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -777,7 +777,7 @@
                     "endOffset": 3477
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -796,7 +796,7 @@
                     "endOffset": 3589
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -815,7 +815,7 @@
                     "endOffset": 3849
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\2.2.0\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\2.2.0\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -834,7 +834,7 @@
                     "endOffset": 3922
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\2.2.0\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\2.2.0\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -853,7 +853,7 @@
                     "endOffset": 3999
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -872,7 +872,7 @@
                     "endOffset": 4055
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -891,7 +891,7 @@
                     "endOffset": 4131
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -910,7 +910,7 @@
                     "endOffset": 4188
                 },
                 "from": {
-                    "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-nb\\values-nb.xml",
+                    "file": "C:\\Users\\Nicolas Lopez F\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
