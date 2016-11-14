@@ -1,10 +1,6 @@
 [
     {
-<<<<<<< HEAD
         "outputFile": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-nl\\values-nl.xml",
-=======
-        "outputFile": "/Users/santiagoiraola/Desktop/FINAL_DIGITALHOUSE/lopflix/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nl/values-nl.xml",
->>>>>>> master
         "map": [
             {
                 "to": {
@@ -78,11 +74,7 @@
                     "endOffset": 562
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nl\\values-nl.xml",
-=======
-                    "file": "/Users/santiagoiraola/Desktop/FINAL_DIGITALHOUSE/lopflix/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-nl/values-nl.xml",
->>>>>>> master
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -101,11 +93,7 @@
                     "endOffset": 670
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nl\\values-nl.xml",
-=======
-                    "file": "/Users/santiagoiraola/Desktop/FINAL_DIGITALHOUSE/lopflix/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-nl/values-nl.xml",
->>>>>>> master
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -124,11 +112,7 @@
                     "endOffset": 793
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nl\\values-nl.xml",
-=======
-                    "file": "/Users/santiagoiraola/Desktop/FINAL_DIGITALHOUSE/lopflix/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-nl/values-nl.xml",
->>>>>>> master
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -147,11 +131,7 @@
                     "endOffset": 898
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nl\\values-nl.xml",
-=======
-                    "file": "/Users/santiagoiraola/Desktop/FINAL_DIGITALHOUSE/lopflix/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-nl/values-nl.xml",
->>>>>>> master
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -170,11 +150,7 @@
                     "endOffset": 1005
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nl\\values-nl.xml",
-=======
-                    "file": "/Users/santiagoiraola/Desktop/FINAL_DIGITALHOUSE/lopflix/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-nl/values-nl.xml",
->>>>>>> master
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -193,11 +169,7 @@
                     "endOffset": 1091
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nl\\values-nl.xml",
-=======
-                    "file": "/Users/santiagoiraola/Desktop/FINAL_DIGITALHOUSE/lopflix/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-nl/values-nl.xml",
->>>>>>> master
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -216,11 +188,7 @@
                     "endOffset": 1199
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nl\\values-nl.xml",
-=======
-                    "file": "/Users/santiagoiraola/Desktop/FINAL_DIGITALHOUSE/lopflix/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-nl/values-nl.xml",
->>>>>>> master
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -239,11 +207,7 @@
                     "endOffset": 1319
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nl\\values-nl.xml",
-=======
-                    "file": "/Users/santiagoiraola/Desktop/FINAL_DIGITALHOUSE/lopflix/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-nl/values-nl.xml",
->>>>>>> master
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -262,11 +226,7 @@
                     "endOffset": 1396
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nl\\values-nl.xml",
-=======
-                    "file": "/Users/santiagoiraola/Desktop/FINAL_DIGITALHOUSE/lopflix/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-nl/values-nl.xml",
->>>>>>> master
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -285,11 +245,7 @@
                     "endOffset": 1473
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nl\\values-nl.xml",
-=======
-                    "file": "/Users/santiagoiraola/Desktop/FINAL_DIGITALHOUSE/lopflix/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-nl/values-nl.xml",
->>>>>>> master
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -308,11 +264,7 @@
                     "endOffset": 1555
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nl\\values-nl.xml",
-=======
-                    "file": "/Users/santiagoiraola/Desktop/FINAL_DIGITALHOUSE/lopflix/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-nl/values-nl.xml",
->>>>>>> master
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -331,11 +283,7 @@
                     "endOffset": 1666
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nl\\values-nl.xml",
-=======
-                    "file": "/Users/santiagoiraola/Desktop/FINAL_DIGITALHOUSE/lopflix/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-nl/values-nl.xml",
->>>>>>> master
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -354,11 +302,7 @@
                     "endOffset": 1770
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nl\\values-nl.xml",
-=======
-                    "file": "/Users/santiagoiraola/Desktop/FINAL_DIGITALHOUSE/lopflix/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-nl/values-nl.xml",
->>>>>>> master
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -377,11 +321,7 @@
                     "endOffset": 1869
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nl\\values-nl.xml",
-=======
-                    "file": "/Users/santiagoiraola/Desktop/FINAL_DIGITALHOUSE/lopflix/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-nl/values-nl.xml",
->>>>>>> master
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -400,11 +340,7 @@
                     "endOffset": 1984
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nl\\values-nl.xml",
-=======
-                    "file": "/Users/santiagoiraola/Desktop/FINAL_DIGITALHOUSE/lopflix/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-nl/values-nl.xml",
->>>>>>> master
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -423,11 +359,7 @@
                     "endOffset": 2097
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nl\\values-nl.xml",
-=======
-                    "file": "/Users/santiagoiraola/Desktop/FINAL_DIGITALHOUSE/lopflix/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-nl/values-nl.xml",
->>>>>>> master
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -446,11 +378,7 @@
                     "endOffset": 2200
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nl\\values-nl.xml",
-=======
-                    "file": "/Users/santiagoiraola/Desktop/FINAL_DIGITALHOUSE/lopflix/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-nl/values-nl.xml",
->>>>>>> master
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -469,11 +397,7 @@
                     "endOffset": 2318
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nl\\values-nl.xml",
-=======
-                    "file": "/Users/santiagoiraola/Desktop/FINAL_DIGITALHOUSE/lopflix/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-nl/values-nl.xml",
->>>>>>> master
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -492,11 +416,7 @@
                     "endOffset": 2421
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nl\\values-nl.xml",
-=======
-                    "file": "/Users/santiagoiraola/Desktop/FINAL_DIGITALHOUSE/lopflix/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-nl/values-nl.xml",
->>>>>>> master
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -515,11 +435,7 @@
                     "endOffset": 2503
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nl\\values-nl.xml",
-=======
-                    "file": "/Users/santiagoiraola/Desktop/FINAL_DIGITALHOUSE/lopflix/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-nl/values-nl.xml",
->>>>>>> master
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -538,11 +454,7 @@
                     "endOffset": 2604
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-nl\\values-nl.xml",
-=======
-                    "file": "/Users/santiagoiraola/Desktop/FINAL_DIGITALHOUSE/lopflix/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-nl/values-nl.xml",
->>>>>>> master
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,

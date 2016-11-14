@@ -1,10 +1,6 @@
 [
     {
-<<<<<<< HEAD
         "outputFile": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
-=======
-        "outputFile": "/Users/santiagoiraola/Desktop/FINAL_DIGITALHOUSE/lopflix/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
->>>>>>> master
         "map": [
             {
                 "to": {
@@ -15,11 +11,7 @@
                     "endOffset": 96
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "C:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\exploded-aar\\com.android.support.test\\rules\\0.5\\res\\values\\values.xml",
-=======
-                    "file": "/Users/santiagoiraola/Desktop/FINAL_DIGITALHOUSE/lopflix/app/build/intermediates/exploded-aar/com.android.support.test/rules/0.5/res/values/values.xml",
->>>>>>> master
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
