@@ -3,228 +3,327 @@
 
     <item
         is-multidex="true"
-        jar="/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/exploded-aar/com.alexzh/circleimageview/1.2.0/jars/libs/nineoldandroid-library-2.4.0.jar"
+        jar="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="de28e826c3cdeff64a297816a4f95c50d7aa644b">
-        <dex dex="/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/transforms/dex/debug/folders/1000/10/nineoldandroid-library-2.4.0_ab72c12602799f2d6c5e3de7707ce4badff695d9/classes.dex" />
+        sha1="3f9470f8223ac07cb9670834201e7b4cbabcec12">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_cb5611fd416a3d42b59e2d8d86c143ba5e0d115e\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_2c43487a7ff0b91482cc5d79b15d41cd58246145/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/exploded-aar/com.alexzh/circleimageview/1.2.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="f4cde41cc3e40c2c25b0173ae54f58a516d5ad9f">
-        <dex dex="/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.alexzh-circleimageview-1.2.0_21d5a1955cb0bc1eeaab8cb04e31b182cce5f7d1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_0d7e60464c67272b238abe2ddc2e4ad4b485b018/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a4525e70f50912c66038990de9c7d56332beadf9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_667a1d113ec641f73f7a31f5a307c6a2e90ae0a1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="0f420c473e786ffc6579c7f3977dd08fe80c7164">
-        <dex dex="/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_95b23b2ef8a18c1fec9b3ab3c0ecc7870173e2b2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/santiagoiraola/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
-        <dex dex="/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3.1_9b409cec7f863b1eaf9abb5cc844bbf4bf8fc170/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_d770a13ec1c8dbcd62e3e70023e4f06426b7d94f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_fb35d044d675178fcc2f3db5bea2f59782addafb/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/santiagoiraola/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_e532ff444c4db8e1a960d59d3ecfbce36e4b370a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/santiagoiraola/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
-        <dex dex="/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_22ab37106aa8b94c3ef810b9d47d11ea44e9019f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/santiagoiraola/Library/Android/sdk/build-tools/24.0.2/renderscript/lib/renderscript-v8.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="05668b8cd6c7b07f152b6a5b4c6cff620817ba0f">
-        <dex dex="/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/transforms/dex/debug/folders/1000/10/renderscript-v8_328338f861ae43f5bc4ccb54a9e161e8bb38bf10/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_73a0fc73277dbaa6c9e1d9f91e20c44fabbc78b6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_bb41940e0448e416567aca54da70d8198c1fcf96/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_6336fbb7868d5f78ded55e3dde69637aabbaef06/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_3b68c5b50b549a56cc548a4a68cac15c3c208441/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="5d9f45b7706c197eb3ef16d5080540c5160cc507">
-        <dex dex="/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a5899e8e345304d072eec1ab03f2a8de1b2e76c5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ceb4399b6bba87914fa24c44bd513bb215daeec1/classes.dex" />
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d4f805b468c8db5f0b297f3924c274a51215cf6d\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jar="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_300b31c8bfc4f7f1011b1423b4b86ce754e1a848\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-ui\2.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6888a6faad7690088caf4ce55cde09763d7eefd0">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.twitter.sdk.android-tweet-ui-2.2.0_aa96738c9f28b1e2ff8956b5179c342c7e55d290\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_cdff9537660c1b525db3094d00b38de16fe8d2da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_4722530926390dbaed8c66b3dbe3b48a64285227\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-composer\2.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4deb6adbe724b17214ded081b0fbfb109a87077e">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.twitter.sdk.android-tweet-composer-2.2.0_f38fb28944025f4762b43dfc7673ffac6832db64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_3bbf647bc761a5b8c1a5bcd72a40d295c56acad4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_243abaef423f1c5357ae6eaf997ea5d9b4f04ef6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
-        <dex dex="/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.2.1_5c0dac20dd41c3ce61fa5728c6bc6ee3f70e4e7d/classes.dex" />
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.1_6fbc896263b219b041906967d5c7f55306fc3ecb\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_757fa3822d17c5f184d73ba479fb4c6c6f6f2a20/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_949347f593decea4d2548c73451f6f234bdce4d5/classes.dex" />
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a9012c0577bfb013d8d60d0b187458d2ba3a9c8c\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jar="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7d6194ec9d258ad6b9ffb789b425f4eb4476c148">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a52888da50d86e9ee323293de5592131c0df4ae5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_9a8c7b54d30eec47dc414b453cfea4b531ecd098/classes.dex" />
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_c537b7eac97c9c8f73b5526e1c023b67ebe048d3\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jar="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_22acf615371615d627b4faeb646ba982eab3996a/classes.dex" />
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_c13dc91eeaa98a5205c61c36b6a757ae7192db20\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jar="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_64b9fa1b139b753ff3609afd53d879cff0b102a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nicolas Lopez F\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.1\b9d63507329a7178e026fc334f87587ee5070ac5\gson-2.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.1_a9a6e06bfa526c0740475a82f98a684958886224\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nicolas Lopez F\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_e7c06c81ee19bd08d07dcef85a6b74d21d21f450\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nicolas Lopez F\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.2\f8d87f15b94b8d74e7ccf61d7eedb558811cdb30\converter-gson-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.0.2_6854f6fb91513b4709ded8b635b12ac6174cf528\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_df5dbfa65f5290f6d6d973ae2a23729e8cd8ecb2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\exploded-aar\com.alexzh\circleimageview\1.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f4cde41cc3e40c2c25b0173ae54f58a516d5ad9f">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.alexzh-circleimageview-1.2.0_ea1bf45939d054086b96f9299392ca1a2c67f3fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nicolas Lopez F\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_4fa2c8bf7f36a1ebf3121095e5c6db60ad981e9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nicolas Lopez F\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.2\43eeae0b9fb087bb3194ba59ab63a38a32fbf3e\retrofit-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.2_0ee2a61f19953864d86e0079ed30c83a5890ed6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_137540eadf196ae1b2c5545d546c46596d422cb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nicolas Lopez F\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_44861ade014e5304506225cca41ee284f129a4e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter-core\2.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2a3224154b36aa5bb941f20d1625ba1fb20aa3a7">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.twitter.sdk.android-twitter-core-2.2.0_f5ff967ba5b9b28ab75782abc0e8a7b48848ca9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\exploded-aar\io.fabric.sdk.android\fabric\1.3.14\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a319fd4d548ba4cc9511561d37109ba922bfbf6a">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.fabric.sdk.android-fabric-1.3.14_9eb006e1794d7665757dae67a80b9c40913a87a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nicolas Lopez F\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_d82b3231afaf8c37413bf63ca61bfcebebe95bd6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_216cd81879215223f2e3c6265b9e12444193f749\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_d4435d79027bb2033496e81f0a5a672f588de47e/classes.dex" />
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_d8154826ad7c1ba0860bd3c2e5bf0a7c443d43be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\transforms\dex\debug\folders\1000\2\YouTubeAndroidPlayerApi_20c5c159a9bebce5b5f3349405fe588d85f0de5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nicolas Lopez F\AppData\Local\Android\Sdk\build-tools\24.0.2\renderscript\lib\renderscript-v8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="05668b8cd6c7b07f152b6a5b4c6cff620817ba0f">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\renderscript-v8_f3d9ab25fb66b1eb71bcdaaf703d0c8658f255ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nicolas Lopez F\.gradle\caches\modules-2\files-2.1\com.twitter\twitter-text\1.13.0\78415b95ae3184c5926d593feab64bfc0b73b2dd\twitter-text-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="78415b95ae3184c5926d593feab64bfc0b73b2dd">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\twitter-text-1.13.0_fe6d702e5fdf89030ac21ec71f3091c258a60882\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\exploded-aar\com.alexzh\circleimageview\1.2.0\jars\libs\nineoldandroid-library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de28e826c3cdeff64a297816a4f95c50d7aa644b">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\nineoldandroid-library-2.4.0_c36e6820bc937ad10b2d9d8859368cf7d2cec176\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter\2.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2b7e936ca11ae0588600beb7388553bda26d7e66">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.twitter.sdk.android-twitter-2.2.0_2f4966acc24b27a8112eba3de390098c8e5fa483\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_39760e792d22b0c4a75128763db9d84856e774c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Nicolas Lopez F\Desktop\lopflix-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_b44af8542bb4f82797535875a4e0e6340be47ce9\classes.dex" />
     </item>
 
 </items>

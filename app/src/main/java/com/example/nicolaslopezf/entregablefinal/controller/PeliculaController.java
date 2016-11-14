@@ -7,6 +7,7 @@ import android.widget.Toast;
 import com.example.nicolaslopezf.entregablefinal.dao.PeliculaDAO;
 import com.example.nicolaslopezf.entregablefinal.model.MovieDB.ContainerMovieDB;
 import com.example.nicolaslopezf.entregablefinal.model.MovieDB.MovieDB;
+import com.example.nicolaslopezf.entregablefinal.model.MovieDB.MovieDBTrailerContainer;
 import com.example.nicolaslopezf.entregablefinal.model.Pelicula;
 import com.example.nicolaslopezf.entregablefinal.model.Trackt.WrapperPeliculaTrckt;
 import com.example.nicolaslopezf.entregablefinal.utils.ResultListener;
@@ -204,5 +205,19 @@ public class PeliculaController {
         PeliculaDAO peliculaDAO = new PeliculaDAO(context);
 
         return peliculaDAO.getTMDBidFromDataBase(imdbID);
+    }
+
+    public void obtenerTrailerDePeliculaTMDB(Context context,String tmdbID, final ResultListener listenerFromView){
+
+        PeliculaDAO peliculaDAO = new PeliculaDAO(context);
+
+        peliculaDAO.flasehadaCreadoraDeAsync(new MovieDBTrailerContainer(), TMDBHelper.getTrailerURL(tmdbID, TMDBHelper.language_ENGLISH),
+                new ResultListener<Object>() {
+
+                    @Override
+                    public void finish(Object resultado) {
+                        listenerFromView.finish(resultado);
+                    }
+                },context);
     }
 }

@@ -14,6 +14,7 @@ import com.example.nicolaslopezf.entregablefinal.R;
 import com.example.nicolaslopezf.entregablefinal.controller.PeliculaController;
 import com.example.nicolaslopezf.entregablefinal.model.MovieDB.ContainerMovieDB;
 import com.example.nicolaslopezf.entregablefinal.model.MovieDB.MovieDB;
+import com.example.nicolaslopezf.entregablefinal.model.MovieDB.MovieDBTrailerContainer;
 import com.example.nicolaslopezf.entregablefinal.utils.ResultListener;
 import com.example.nicolaslopezf.entregablefinal.utils.TMDBHelper;
 
@@ -115,11 +116,6 @@ public class FragmentRecyclerSoloImagen extends Fragment{
 
         recyclerViewPeliculasHighestGrossing.setAdapter(unAdapterPeliculasHighestGrossing);
         //-------------------------FIN DE RECYCLER PARA HIGHESTGROSSED----------------------------------//
-
-
-
-
-
 
 
 

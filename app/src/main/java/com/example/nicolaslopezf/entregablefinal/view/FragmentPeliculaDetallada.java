@@ -23,9 +23,11 @@ import com.example.nicolaslopezf.entregablefinal.controller.PeliculaController;
 import com.example.nicolaslopezf.entregablefinal.dao.PeliculaDAO;
 import com.example.nicolaslopezf.entregablefinal.model.MovieDB.ContainerMovieDB;
 import com.example.nicolaslopezf.entregablefinal.model.MovieDB.MovieDB;
+import com.example.nicolaslopezf.entregablefinal.model.MovieDB.MovieDBTrailerContainer;
 import com.example.nicolaslopezf.entregablefinal.model.Pelicula;
 import com.example.nicolaslopezf.entregablefinal.utils.ResultListener;
 import com.example.nicolaslopezf.entregablefinal.utils.TMDBHelper;
+import com.example.nicolaslopezf.entregablefinal.view.YouTube.YouTubeFragment;
 import com.example.nicolaslopezf.entregablefinal.view.viewsparafragmentinicio.AdapterRecyclerSoloImagen;
 import com.example.nicolaslopezf.entregablefinal.view.viewsparafragmentinicio.FragmentRecyclerSoloImagen;
 import com.squareup.picasso.Picasso;
@@ -57,6 +59,7 @@ public class FragmentPeliculaDetallada extends Fragment {
         LinearLayoutManager linearLayoutManager = new LinearLayoutManager(getActivity(), LinearLayoutManager.HORIZONTAL, false);
         recyclerViewPeliculas.setLayoutManager(linearLayoutManager);
 
+        final YouTubeFragment youTubeFragment = new YouTubeFragment();
 
 
         recyclerViewPeliculas = (RecyclerView) viewADevolverInflado.findViewById(R.id.fragmentpeliculadetalle_recycleView);
@@ -142,6 +145,30 @@ public class FragmentPeliculaDetallada extends Fragment {
 //            }
 //        });
 
+        peliculaController.obtenerTrailerDePeliculaTMDB(getActivity(), tmdbID, new ResultListener() {
+            @Override
+            public void finish(Object resultado) {
+                MovieDBTrailerContainer movieDBTrailerContainer = (MovieDBTrailerContainer) resultado;
+                Log.d("trailer",movieDBTrailerContainer.toString());
+                String url;
+                if(movieDBTrailerContainer.getTrailerArrayList().size() > 0){
+                    url = movieDBTrailerContainer.getTrailerArrayList().get(0).getTrailerUrl();
+                }
+                else {
+                    url = "zX5XasRcGBg";
+                }
+
+                Bundle bundle = new Bundle();
+                bundle.putString("url",url);
+                youTubeFragment.setArguments(bundle);
+
+                unFragmentManager = getFragmentManager();
+                FragmentTransaction fragmentTransaction = getFragmentManager().beginTransaction();
+                fragmentTransaction.replace(R.id.fragmentPeliculaDetalle_alojadorDeYoutube,youTubeFragment);
+                fragmentTransaction.commit();
+
+            }
+        });
 
 
         return viewADevolverInflado;

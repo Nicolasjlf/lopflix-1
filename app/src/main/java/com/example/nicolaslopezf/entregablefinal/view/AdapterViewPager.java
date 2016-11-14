@@ -4,6 +4,7 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentStatePagerAdapter;
 
+import com.example.nicolaslopezf.entregablefinal.view.YouTube.YouTubeFragment;
 import com.example.nicolaslopezf.entregablefinal.view.viewsparafragmentinicio.FragmentRecyclerSoloImagen;
 
 import java.util.ArrayList;
@@ -23,7 +24,6 @@ public class AdapterViewPager extends FragmentStatePagerAdapter {
     public AdapterViewPager(FragmentManager fm) {
         super(fm);
         ArrayList<Fragment> fragments = new ArrayList<>();
-        //fragments.add(new FragmentRecyclerPeliculas());
         fragments.add(new FragmentRecyclerSoloImagen());
         fragments.add(new FragmentRecycleGridFavoritas());
         fragments.add(new FragmentRecyclerUsuario());

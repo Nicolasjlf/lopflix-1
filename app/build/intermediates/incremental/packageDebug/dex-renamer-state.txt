@@ -1,7 +1,7 @@
-#Sun Nov 13 14:46:09 ART 2016
-base.0=/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_95b23b2ef8a18c1fec9b3ab3c0ecc7870173e2b2
+#Sun Nov 13 23:57:37 ART 2016
+base.0=C\:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_cb5611fd416a3d42b59e2d8d86c143ba5e0d115e
 renamed.1=classes.dex
 renamed.0=classes2.dex
-file.1=/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a5899e8e345304d072eec1ab03f2a8de1b2e76c5/classes.dex
-base.1=/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a5899e8e345304d072eec1ab03f2a8de1b2e76c5
-file.0=/Users/santiagoiraola/Desktop/FINAL DIGITALHOUSE/EntregableFinal 01 11 2016/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_95b23b2ef8a18c1fec9b3ab3c0ecc7870173e2b2/classes.dex
+file.1=C\:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a52888da50d86e9ee323293de5592131c0df4ae5\\classes.dex
+base.1=C\:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a52888da50d86e9ee323293de5592131c0df4ae5
+file.0=C\:\\Users\\Nicolas Lopez F\\Desktop\\lopflix-1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_cb5611fd416a3d42b59e2d8d86c143ba5e0d115e\\classes.dex
